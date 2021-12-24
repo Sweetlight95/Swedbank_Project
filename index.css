@@ -1,0 +1,140 @@
+body {
+    background-color: #fbf3e9;
+}
+
+.container_1{
+    background-color: white;
+    height: 7rem;
+}
+.leaf-mobile {
+    height: 3rem;
+    border: none;
+    width: 99vw;
+    
+}
+.login {
+    background-color: #fffffd;
+    margin: 20px 60px;
+    height:30vh;
+    width: 95vw;
+}
+.log {background-color: #f3fbfd;
+    height: 25vh;
+    width: 90vw;
+    margin: 40px 50px;
+}
+h2 { 
+    color: #ec5c1d;
+    font-weight: bold;
+    font-size:2rem;
+    margin: 5rem 2rem;
+}
+.text1 {
+    height: 7.6rem;
+    width: 95vw;
+    font-size: 1.6rem;
+    text-align: left;
+    margin-top: -4rem; 
+    }
+.texts {
+    background-color: white;
+    height: 32vh;
+    margin-top: 1.5rem;
+}
+.text2 {
+    height: 6rem;
+    width: 90vw;
+    font-size: 1.6rem;
+    text-align: left;
+    margin: 3rem 4rem; 
+}
+.application_btn {
+    display: flex;
+    justify-content: space-evenly;
+}
+.application_btn .txt1 { 
+    text-decoration: none;
+    color: #8bb1bd;
+    position: relative;
+    right: 3rem;
+    top: 1rem;
+    font-size: 2rem;
+}
+.data {
+    margin-left: 9rem;
+}
+.application_btn .txt2 {
+    text-decoration: none;
+    color: #8bb1bd;
+    position: relative;
+    right: 9rem;
+    top: 1rem;
+    font-size: 2rem; 
+}
+.application_btn .txt3 {
+    text-decoration: none;
+    color: #8bb1bd;
+    position: relative;
+    right: 6rem;
+    top: 1rem;
+    font-size: 2rem;
+}
+.application_btn button:hover {
+    background-color: #f9d10c;
+}
+.circle1{
+    background-color:#d1c6bc;
+    height:70px;
+    width:60px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+    font-size: 1.6rem;
+}
+.circle2{
+    background-color:#d1c6bc;
+    height:70px;
+    width:60px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+    font-size: 1.6rem;
+}
+.circle3{
+    background-color:#d1c6bc;
+    height:70px;
+    width:60px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+    font-size: 1.6rem;
+}
+.hr1 {
+    background-color: #f3ca1a;
+    height: 0.7rem;
+    border: none;
+    margin-top: 0.4rem;
+    /* width: 98vw; */
+}
+.hr2 {
+    background-color: #f3ca1a;
+    height: 0.7rem;
+    border: none;
+    /* width: 98vw; */
+    margin-top:37rem;
+}
+.footer_display {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+h3 {
+    font-weight: bold;
+    color: #512b2b;
+
+}
+dt {
+    font-weight: normal;
+    color: #922b2b;
+}
