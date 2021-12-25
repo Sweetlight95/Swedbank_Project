@@ -18,7 +18,8 @@ body {
     height:30vh;
     width: 95vw;
 }
-.log {background-color: #f3fbfd;
+.log {
+    background-color: #f3fbfd;
     height: 25vh;
     width: 90vw;
     margin: 40px 50px;
@@ -114,13 +115,13 @@ h2 {
     height: 0.7rem;
     border: none;
     margin-top: 0.4rem;
-    /* width: 98vw; */
+    width: 98vw;
 }
 .hr2 {
     background-color: #f3ca1a;
     height: 0.7rem;
     border: none;
-    /* width: 98vw; */
+    width: 98vw;
     margin-top:37rem;
 }
 .footer_display {
@@ -137,4 +138,60 @@ h3 {
 dt {
     font-weight: normal;
     color: #922b2b;
+}
+.contain_section {
+    height: 80vh;
+    width: 90vw;
+    background-color: #ffffff;
+    margin: 40px 80px;
+}
+hr {
+    margin-left: 1.3rem;
+    width: 87vw;
+    color: #f7f7f7;
+}
+.hr3 {
+    background-color: #f3ca1a;
+    height: 0.7rem;
+    border: none;
+    width: 98vw;
+    margin-top:20rem;
+}
+.btn1 {
+    background-color: #fdf9f6;
+    height: 15vh;
+    /* width: 90vw;  */
+    /* margin-top: 4.3rem; */
+}
+.btn2 {
+    height: 4rem;
+    width: 8rem;
+    background-color: #d5baad;
+    color: #947658;
+    font-weight: bold;
+    font-size: 1.5rem;
+    border: none;
+    margin: 3rem 3.4rem;
+}
+.btn3 {
+    height: 4rem;
+    width: 16rem;
+    background-color: #f36d03;
+    color: #ffc573;
+    font-weight: bold;
+    font-size: 1.5rem;
+    border: none;
+    margin-left: 100rem;
+}
+.hr4 {
+    background-color: #f3ca1a;
+    height: 0.7rem;
+    border: none;
+    width: 98vw;
+    margin-top: 5rem;
+}
+.contain_section div {
+    line-height: 7rem;
+    margin-left: 2rem;
+    font-size: 1.6rem;
 }
