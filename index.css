@@ -18,19 +18,21 @@ body {
 .login {
     background-color: #fffffd;
     margin: 20px 60px;
-    height:30vh;
+    height:33vh;
     width: 95vw;
 }
 .log {
     background-color: #f3fbfd;
-    height: 25vh;
+    height: 28vh;
     width: 91vw;
     margin: 40px 50px;
     position: relative;
     top: 1.6rem;
 }
 .log h2 {
-    color: #922b2b;
+    color: #512b2b;
+    font-weight: bold;
+    font-size: 3rem;
     position: relative;
     top: 1rem;
 }
